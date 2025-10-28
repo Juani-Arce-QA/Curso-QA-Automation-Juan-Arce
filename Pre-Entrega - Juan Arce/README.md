@@ -17,7 +17,7 @@ El proyecto incluye:
 
 1. Tener instalado browser Google Chrome 
 2. Clonar el repositorio: 
-    https:link
+    https://github.com/Juani-Arce-QA/Curso-QA-Automation-Juan-Arce.git
 3. En tu terminal, en la raíz, ejecutar:
     python -m venv venv
     .\venv\Scripts\Activate
