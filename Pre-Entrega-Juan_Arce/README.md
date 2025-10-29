@@ -1,6 +1,8 @@
 # Proyecto Automatización - Talento Tech - Juan Arce
 
-Automatización de pruebas funcionales en base a lo visto en clase
+Automatización de pruebas funcionales en base a lo visto en clase 
+
+Nota: En esta primera apoximación a VSC con Python y Pytest me basé en el código realizado en clase para estructuras mis pruebas. mi objetivo es que la segunda parte del curso puedo lograr autonomía para pensar las pruebas y el código, hoy esa capacidad de creación de código es el objetivo. Por lo que agregué waits en lugares que consideré oportunos.
 
 El proyecto incluye: 
 - Pruebas de Login 

@@ -27,7 +27,7 @@ class LoginPage:
         return self
     
     def completar_pass(self,password):
-        input = self.driver.find_element(*self._PASS_INPUT)
+        input = self.wait.until(EC.visibility_of_element_located(self._PASS_INPUT))
         input.clear()
         input.send_keys(password)
         return self

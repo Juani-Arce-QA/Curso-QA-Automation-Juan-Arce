@@ -12,5 +12,4 @@ def test_inventory(login_in_driver):
     except Exception as e:
         print(f"Error en test_inventory: {e}")
         raise
-    finally:
-        driver.quit()
+    
